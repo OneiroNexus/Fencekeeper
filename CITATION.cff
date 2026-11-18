@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the exact software version used."
+type: software
+title: "Fencekeeper: Dependency-Aware Retirement of Stale AI Memory"
+version: 0.1.0
+authors:
+  - family-names: Weis
+    given-names: Aaron Michael
+    orcid: "https://orcid.org/0009-0002-1906-148X"
+abstract: >-
+  A local, review-bound inspector for declared memory dependencies, supersession,
+  revocation and coupled restrictions. Includes visible rule ablations and
+  synthetic implementation checks. Does not authenticate facts or permissions.
+keywords:
+  - agent memory
+  - context engineering
+  - dependency tracking
+  - ablation
+  - human review
+  - reproducibility
+license: MIT
+repository-code: "https://github.com/OneiroNexus/Fencekeeper"

@@ -1,0 +1,1 @@
+{"decisions":[{"acknowledged_couplings":[],"approved":true,"rationale":"Synthetic approval for testing; not a real-person decision.","record_id":"old","replacement_id":"new","reviewer":"FICTIONAL FIXTURE REVIEWER"}],"packet_sha256":"76f1875c597a5d3a99912a58d28eeda0b80528f25ee3ec095bef9f23d428fe0c","schema":"fencekeeper.review.v1"}

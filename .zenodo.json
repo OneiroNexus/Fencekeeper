@@ -1,0 +1,13 @@
+{
+  "title": "Fencekeeper",
+  "description": "A local Python prototype for inspecting proposed retirement of structured memory records and carrying unresolved constraints into a preview. The accompanying methods paper is licensed separately under CC BY 4.0.",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "orcid": "0009-0002-1906-148X"
+    }
+  ],
+  "license": "MIT"
+}

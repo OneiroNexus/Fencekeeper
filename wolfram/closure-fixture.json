@@ -1,0 +1,8 @@
+{
+  "schema": "fencekeeper.closure.v1",
+  "nodes": ["old", "new", "child", "fence"],
+  "support_edges": [["old", "child"], ["child", "fence"]],
+  "changed_id": "old",
+  "current_ids": ["new", "child", "fence"],
+  "expected_current_dependents": ["child", "fence"]
+}
